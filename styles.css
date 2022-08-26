@@ -1,0 +1,156 @@
+body
+{
+  text-align: center;
+  font-family: sans-serif;
+}
+
+hr
+{
+  margin-top: 50px;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  width: 10%;
+}
+
+.top
+{
+  background-color: #EAF6F6;
+
+}
+
+.bottom
+{
+  background-color: #66BFBF;
+  margin: 40px 0px 0px 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.h1
+{
+  font-family: 'Lucida Handwriting', sans-serif;
+  color: #66BFBF;
+  font-size: 100px;
+  margin: 0;
+  padding-top: 100px;
+}
+
+.h3
+{
+  font-family: 'Papyrus', sans-serif;
+  color: #66BFBF;
+  font-size: 50px;
+}
+
+.h5
+{
+  margin-top: 100px;
+  color: #11999E;
+  font-size: 30px;
+}
+
+.m
+{
+  position: relative;
+}
+
+.c1
+{
+  position: absolute;
+  top: 40px;
+  right: 200px;
+}
+
+.c2
+{
+  position: absolute;
+  bottom: 350px;
+  left: 300px;
+}
+
+.car
+{
+  margin-top: 50px;
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
+
+.design
+{
+  height: 150px;
+  width: 150px;
+  float: left;
+  border-radius: 100px;
+}
+
+.wings
+{
+  height: 150px;
+  width: 150px;
+  float: right;
+  border-radius: 100px;
+}
+
+.p
+{
+  width: 40%;
+  color: #40514E;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.para1
+{
+  width: 40%;
+  margin: auto;
+}
+
+.para2
+{
+  width: 40%;
+  margin: auto;
+}
+
+.btn
+{
+  padding-top: 20px;
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.website
+{
+  margin-top: 200px;
+  color: #11999E;
+}
+.copyright
+{
+  margin-top: 20px;
+  margin-bottom: 0;
+  color: #EAF6F6;
+}
